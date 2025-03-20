@@ -8,7 +8,7 @@ This project creates an S3 bucket, AWS Transfer Service, and AWS Transfer User a
 
 ## Instructions
 
-Run the following commands to provision the S3 bucket
+Run the following commands to provision the S3 bucket, AWS Transfer Service, and AWS Transfer User
 
 - `terraform init`
 - `terraform apply`
